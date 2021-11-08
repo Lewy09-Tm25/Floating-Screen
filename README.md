@@ -1,4 +1,4 @@
-## Our mini-project about Chrome Extension of Floating Screen
+## Mini-project about Chrome Extension of Floating Screen
 Multi-tasking has become an integral part of people’s lives. Working simultaneously on
 numerous tasks has become a daily habit of everyone’s day to day lives, and fairly enough,
 since people do a lot of tasks in a single day, it becomes a useful skill to manage
